@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ef27827774e11d34bb4bd214623f664c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ExchangePanel: {instanceID: 0}
+  - inventoryController: {instanceID: 0}
+  - tomato_seed: {fileID: -6424978744201298638, guid: 21b9ecfc326a36241a357f9eae5f285f, type: 3}
+  - pea_seed: {fileID: 1434063669170889444, guid: 0acbc1c52fedf5f41b9569deb160f216, type: 3}
+  - eggplant_seed: {fileID: -6552761808087011, guid: b02f00d85e17f414ea20e549facb20d3, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
